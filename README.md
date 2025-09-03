@@ -47,11 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Gulnaaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulnaaz-data-analyst&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gulnaaz-data-analyst&layout=compact&theme=radical)  
-
----
 
 ## 🏆 Achievements  
 - 🥇 **Google Advanced Data Analytics Certification** (6-month program)  
